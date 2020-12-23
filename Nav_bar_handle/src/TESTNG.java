@@ -6,4 +6,6 @@ public class TESTNG {
 	public void test()
 {
 		System.out.println("M PRUDHVI RAJ");}
+	
+	
 }
